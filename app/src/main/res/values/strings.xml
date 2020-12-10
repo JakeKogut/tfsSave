@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">navigationApply</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="telephone">Telephone</string>
+    <string name="email">Email\\</string>
+    <string name="emails">Email</string>
+    <string name="Visiteur" />
+    <string name="staff">Staff</string>
+    <string name="eleve">Élève</string>
+    <string name="visit">Visiteur</string>
+    <string name="firstName" />
+    <string name="disTelephone" />
+    <string name="disEmail" />
+    <string name="disRole" />
+</resources>
